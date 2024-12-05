@@ -9,6 +9,8 @@ permanence. By leveraging our novel Blockweave datastructure, data is stored
 in a decentralised, peer-to-peer manner where miners are incentivised to
 store rare data.
 
+Note (Arweave 2.7.4 version)
+
 # Getting Started
 
 Download and extract the latest archive for your platform on the release
