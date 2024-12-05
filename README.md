@@ -1,9 +1,9 @@
-# Arweave Server
+# Stars Node
 
 This is the repository for the official Erlang implementation of the Arweave
 protocol and a gateway implementation.
 
-Arweave is a distributed, cryptographically verified permanent archive built
+Stars/Arweave is a distributed, cryptographically verified permanent archive built
 on a cryptocurrency that aims to, for the first time, provide feasible data
 permanence. By leveraging our novel Blockweave datastructure, data is stored
 in a decentralised, peer-to-peer manner where miners are incentivised to
